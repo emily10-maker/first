@@ -7,6 +7,18 @@
 ### C108118122 朱依淩
 ### C108118144 羅尹
 ### C108118149 楊勝瑋
-[修改我的網頁](https://github.com/emily10-maker/first/edit/main/README.md)
+
 ![睏寶](睏寶.png)
+
+
 This is a `text`
+
+
+
+```This is a text1```
+
+- [x] 1 job
+- [ ]  2 job
+
+
+[修改我的網頁](https://github.com/emily10-maker/first/edit/main/README.md)
