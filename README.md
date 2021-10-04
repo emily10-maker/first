@@ -18,23 +18,33 @@
       note 1  
       note 2  
       note 3  
-
+****
 ![睏寶](睏寶.png)
 
 
 This is a `text`
-
+****
 
 
 ```This is a text1```
-
+****
 - [x] 1 job
 - [ ]  2 job
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+****
+python code
+```
+    s = "Python"
+    print s
+```
+Javascript code
+```
+    var s = "JS";
+    alert(s);
+```
+| Tables        | Are           | Cool           |
+| ------------- | ------------- | -------------  |
+| A             | B             | 1,000          |
+| D             | C             | 3,000          |
 
 
 [修改我的網頁](https://github.com/emily10-maker/first/edit/main/README.md)
