@@ -8,6 +8,17 @@
 ### C108118144 羅尹
 ### C108118149 楊勝瑋
 
+    1.First ordered list item
+    2.Another item
+      Unordered sublist  
+    3.Actual numbers don't matter, just that it's a number  
+      1.Ordered sub-list  
+      2.2nd  
+    4.And another item.  
+      note 1  
+      note 2  
+      note 3  
+
 ![睏寶](睏寶.png)
 
 
