@@ -58,9 +58,12 @@ Javascript code
 
 
 ****
-###10/12個人作業
+### 10/12個人作業
     甘特圖
 ![甘特圖](甘特圖.png)
+
+    PERT/CPM
+![PERT/CPM](PERT.png)
     
 
 
