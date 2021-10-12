@@ -55,3 +55,8 @@ Javascript code
 
 
 [修改我的網頁](https://github.com/emily10-maker/first/edit/main/README.md)
+
+
+****
+10/12個人作業
+![甘特圖](睏寶.png)
