@@ -63,6 +63,7 @@ Javascript code
 ![甘特圖](甘特圖.png)
 
     PERT/CPM
+    關鍵路徑 1 -> 2 -> 4 -> 6 -> 9 -> 11
 ![PERT/CPM](PERT.png)
     
 
